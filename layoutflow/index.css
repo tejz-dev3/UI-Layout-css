@@ -1,0 +1,12 @@
+.box1{
+    height: 200px;
+    width: 200px;
+    background-color: lightblue;
+    display: inline-block;
+    position: sticky;
+    top: 0;
+    /* top: 50%;
+    left: 50%; */
+    /* transform: translate(-50%, -50%); */
+    /* position: fixed; */
+}   
